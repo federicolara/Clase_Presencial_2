@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+h1  {margin:0;
+}
+.fondorojo  {
+  background-color: #a1253a;
+  padding: 30px 10px;
+  text-align: center
+}
+.fondoazul  {
+  background-color: #178bbd;
+  padding: 30px 10px;
+  text-align: center;
+}
+.fondonegro {
+  background-image: url('cuzco2.jpg');
+  height: 430px;
+  background-size: 100%;
+  text-align: right;
+  color: white
+
+}
+.fondonegro p {
+  line-height: 0.2em;
+}
+
+.fondoblanco  {
+  text-align: center;
+  font-family:'Anton';
+}
+.letra1 {font-family:'Ceviche One'; color: #F0aa41}
+.letra2 {color: white;}
